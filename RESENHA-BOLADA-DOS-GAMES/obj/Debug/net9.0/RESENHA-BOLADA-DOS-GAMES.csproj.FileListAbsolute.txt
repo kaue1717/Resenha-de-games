@@ -1,0 +1,15 @@
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\bin\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.exe
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\bin\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.deps.json
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\bin\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.runtimeconfig.json
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\bin\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.dll
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\bin\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.pdb
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.GeneratedMSBuildEditorConfig.editorconfig
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.AssemblyInfoInputs.cache
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.AssemblyInfo.cs
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.csproj.CoreCompileInputs.cache
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.sourcelink.json
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.dll
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\refint\RESENHA-BOLADA-DOS-GAMES.dll
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.pdb
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\RESENHA-BOLADA-DOS-GAMES.genruntimeconfig.cache
+e:\Resenha dos games\Resenha-de-games\RESENHA-BOLADA-DOS-GAMES\obj\Debug\net9.0\ref\RESENHA-BOLADA-DOS-GAMES.dll
