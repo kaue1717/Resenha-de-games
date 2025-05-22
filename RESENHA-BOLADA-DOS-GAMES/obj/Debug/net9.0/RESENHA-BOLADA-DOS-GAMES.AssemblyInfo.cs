@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESENHA-BOLADA-DOS-GAMES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0c743f37cf27b57e5de51c1743d3024bc9f6eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86f59420dd0ac07c187c68d867b0ded364da15f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESENHA-BOLADA-DOS-GAMES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESENHA-BOLADA-DOS-GAMES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -35,7 +35,19 @@ class Jogo
         Console.WriteLine($"Avaliação: {(EBOM ? "Bom" : ERUIM ? "Ruim" : EMAHOMENO ? "É MAIS OU MENOS..." : "Sem avaliação")}");
     }
 
+    class Program
 
+    {
+        static void Main(string[] args)
+        {
+            Jogo jogo = new Jogo("The Last of Us", "Ação/Aventura", "PlayStation 4", "2013");
+            jogo.Avaliar(EBOM: true);
+            jogo.ExibirAvaliação();
+
+            // Chama o método para obter a opinião do usuário
+            jogo.ObterOpininao();
+        }
+    }
     public void ObterOpininao()
     {
         Console.WriteLine("Qual a sua opinião sobre o game?");
