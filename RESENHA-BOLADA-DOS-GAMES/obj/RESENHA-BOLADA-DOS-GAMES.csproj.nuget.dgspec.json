@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj": {}
+    "E:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj": {}
   },
   "projects": {
-    "e:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj": {
+    "E:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj",
+        "projectUniqueName": "E:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj",
         "projectName": "RESENHA-BOLADA-DOS-GAMES",
-        "projectPath": "e:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj",
+        "projectPath": "E:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\RESENHA-BOLADA-DOS-GAMES.csproj",
         "packagesPath": "C:\\Users\\joaoa\\.nuget\\packages\\",
-        "outputPath": "e:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\obj\\",
+        "outputPath": "E:\\Resenha dos games\\Resenha-de-games\\RESENHA-BOLADA-DOS-GAMES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoa\\AppData\\Roaming\\NuGet\\NuGet.Config"
